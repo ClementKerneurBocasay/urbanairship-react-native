@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/raw/ua_native_bridge",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/648c31210c618c6b7b5c1a579c76361d/jetified-urbanairship-core-14.1.1/res/raw/ua_native_bridge"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/raw/ua_blank_favicon.ico",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/648c31210c618c6b7b5c1a579c76361d/jetified-urbanairship-core-14.1.1/res/raw/ua_blank_favicon.ico"
+    }
+]

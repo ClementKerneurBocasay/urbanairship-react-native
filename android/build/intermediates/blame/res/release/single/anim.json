@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/a54c72a256c2517b6e843ff5617284a7/jetified-react-native-0.60.6/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/a54c72a256c2517b6e843ff5617284a7/jetified-react-native-0.60.6/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/ua_iam_fade_out.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/2d1f61ca7e3daf297d693226d898dbd7/jetified-urbanairship-automation-14.1.1/res/anim/ua_iam_fade_out.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/a54c72a256c2517b6e843ff5617284a7/jetified-react-native-0.60.6/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/a54c72a256c2517b6e843ff5617284a7/jetified-react-native-0.60.6/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/fragment_close_enter.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/88e3ee1b5cabd938c26efd0180ffe7d9/fragment-1.2.5/res/anim/fragment_close_enter.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/fragment_fast_out_extra_slow_in.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/88e3ee1b5cabd938c26efd0180ffe7d9/fragment-1.2.5/res/anim/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/a54c72a256c2517b6e843ff5617284a7/jetified-react-native-0.60.6/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/fragment_open_enter.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/88e3ee1b5cabd938c26efd0180ffe7d9/fragment-1.2.5/res/anim/fragment_open_enter.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/a54c72a256c2517b6e843ff5617284a7/jetified-react-native-0.60.6/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/fragment_fade_enter.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/88e3ee1b5cabd938c26efd0180ffe7d9/fragment-1.2.5/res/anim/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/fragment_close_exit.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/88e3ee1b5cabd938c26efd0180ffe7d9/fragment-1.2.5/res/anim/fragment_close_exit.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/ua_iam_fade_in.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/2d1f61ca7e3daf297d693226d898dbd7/jetified-urbanairship-automation-14.1.1/res/anim/ua_iam_fade_in.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/fragment_open_exit.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/88e3ee1b5cabd938c26efd0180ffe7d9/fragment-1.2.5/res/anim/fragment_open_exit.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/anim/fragment_fade_exit.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/88e3ee1b5cabd938c26efd0180ffe7d9/fragment-1.2.5/res/anim/fragment_fade_exit.xml"
+    }
+]

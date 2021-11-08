@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/xml/ua_message_center_actions.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/2830f2e7259804c9b402a44474697694/jetified-urbanairship-message-center-14.1.1/res/xml/ua_message_center_actions.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/xml/ua_automation_actions.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/2d1f61ca7e3daf297d693226d898dbd7/jetified-urbanairship-automation-14.1.1/res/xml/ua_automation_actions.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/xml/ua_default_channels.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/648c31210c618c6b7b5c1a579c76361d/jetified-urbanairship-core-14.1.1/res/xml/ua_default_channels.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/xml/ua_notification_buttons.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/648c31210c618c6b7b5c1a579c76361d/jetified-urbanairship-core-14.1.1/res/xml/ua_notification_buttons.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/xml/ua_default_actions.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/648c31210c618c6b7b5c1a579c76361d/jetified-urbanairship-core-14.1.1/res/xml/ua_default_actions.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/a54c72a256c2517b6e843ff5617284a7/jetified-react-native-0.60.6/res/xml/rn_dev_preferences.xml"
+    }
+]

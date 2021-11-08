@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/95e27c9ee17638c25c921edb0f18bf03/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

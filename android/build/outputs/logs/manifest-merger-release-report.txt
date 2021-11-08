@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:2:5-43
+		INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:3:5-26:19
+meta-data#com.urbanairship.autopilot
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:5:7-6:78
+	android:value
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:6:17-76
+	android:name
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:5:18-59
+activity#com.urbanairship.reactnative.CustomMessageCenterActivity
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:8:9-16:20
+	android:label
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:10:13-60
+	android:launchMode
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:11:13-44
+	android:name
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:9:13-84
+intent-filter#action:name:com.urbanairship.VIEW_RICH_PUSH_INBOX+category:name:android.intent.category.DEFAULT
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:12:13-15:29
+action#com.urbanairship.VIEW_RICH_PUSH_INBOX
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:13:17-80
+	android:name
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:13:25-77
+category#android.intent.category.DEFAULT
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:14:27-73
+activity#com.urbanairship.reactnative.CustomMessageActivity
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:18:19-84
+intent-filter#action:name:com.urbanairship.VIEW_RICH_PUSH_MESSAGE+category:name:android.intent.category.DEFAULT+data:scheme:message
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:19:13-23:29
+action#com.urbanairship.VIEW_RICH_PUSH_MESSAGE
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:20:25-79
+data
+ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:21:17-49
+	android:scheme
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml:21:23-47
+uses-sdk
+INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+		ADDED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml
+		INJECTED from /home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/src/main/AndroidManifest.xml

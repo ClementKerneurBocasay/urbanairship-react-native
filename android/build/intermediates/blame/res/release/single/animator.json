@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/animator/ua_iam_slide_out_top.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/2d1f61ca7e3daf297d693226d898dbd7/jetified-urbanairship-automation-14.1.1/res/animator/ua_iam_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/animator/ua_iam_slide_in_top.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/2d1f61ca7e3daf297d693226d898dbd7/jetified-urbanairship-automation-14.1.1/res/animator/ua_iam_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/animator/ua_iam_slide_in_bottom.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/2d1f61ca7e3daf297d693226d898dbd7/jetified-urbanairship-automation-14.1.1/res/animator/ua_iam_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/ckerneur/Projects/front-mobile/node_modules/urbanairship-react-native/android/build/intermediates/res/merged/release/animator/ua_iam_slide_out_bottom.xml",
+        "source": "/home/ckerneur/.gradle/caches/transforms-2/files-2.1/2d1f61ca7e3daf297d693226d898dbd7/jetified-urbanairship-automation-14.1.1/res/animator/ua_iam_slide_out_bottom.xml"
+    }
+]

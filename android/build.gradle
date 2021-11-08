@@ -1,0 +1,45 @@
+apply plugin: 'com.android.library'
+
+import groovy.json.JsonSlurper
+
+ext {
+    airshipVersion = "14.1.1"
+}
+
+android {
+
+    // Android SDK Versions
+    compileSdkVersion 29
+
+    defaultConfig {
+        targetSdkVersion 29
+        minSdkVersion 16
+
+        buildConfigField("String", "MODULE_VERSION", "\"${getModuleVersion()}\"")
+    }
+}
+
+def getModuleVersion() {
+    def jsonFile = file('../package.json')
+    def parsedJson = new JsonSlurper().parseText(jsonFile.text)
+
+    return parsedJson["version"]
+}
+
+def safeExtGet (prop, fallback) {
+    rootProject.ext.has(prop) ? rootProject.ext.get(prop) : fallback
+}
+
+dependencies {
+    implementation 'com.facebook.react:react-native:+'
+
+    implementation("com.urbanairship.android:urbanairship-fcm:$airshipVersion") {
+      exclude group: 'com.google.firebase', module: 'firebase-messaging'
+    }
+
+    implementation "com.urbanairship.android:urbanairship-message-center:$airshipVersion"
+    implementation "com.urbanairship.android:urbanairship-automation:$airshipVersion"
+    implementation "com.urbanairship.android:urbanairship-location:$airshipVersion"
+
+    implementation "com.google.firebase:firebase-messaging:${safeExtGet('firebaseMessagingVersion', '21.0.0')}"
+}
